@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The origin for EMG is",
+      "answers": {
+        "a": "Skin muscle",
+        "b": "Heart muscle",
+        "c": "Cerebrum of the brain",
+        "d": "Nerve Muscle"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": " The electrode used for recording of electrical activity of cell is",
+      "answers": {
+        "a": "Floating electrode",
+        "b": "Disc electrode",
+        "c": "Needle electrode",
+        "d": "micro electrode"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Among the following electrodes, which have high Zi?",
+      "answers": {
+        "a": "Micro electrodes",
+        "b": "Surface electrodes",
+        "c": "Needle electrodes",
+        "d": "Disc electrodes"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": " The electrode used for recording of EMG is",
+      "answers": {
+        "a": "Micro electrode",
+        "b": "Floating electrode",
+        "c": "Surface electrode",
+        "d": "None of above"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The electromyograph (primary signal) voltage range is",
+      "answers": {
+        "a": "10 to 10000 &mu;V",
+        "b": "20 to 5000 &mu;V",
+        "c": "10 to 350 &mu;V",
+        "d": "None of above"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
