@@ -2,38 +2,64 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The frequency of the action potential in the relaxed muscle is?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "0 Hz",
+        "b": "50 Hz",
+        "c": "60 Hz",
+        "d": "20-5000 Hz"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "EMG deals with the",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Study of brain activity",
+        "b": "Study of Myocardial activity",
+        "c": "Study of Muscular activity",
+        "d": "Study of Central nervous system"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
-    }
+    },
+    {
+    "question": "In contraction of a skeletal muscle, action potentials are generated in the",
+    "answers": {
+        "a": "Motor units",
+        "b": "Nerve lesion",
+        "c": "Skeletal muscle",
+        "d": "Brain"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+    "question": " The conduction velocity in a motor nerve is normally",
+    "answers": {
+        "a": "100 m/s",
+        "b": "1550 m/s",
+        "c": "below 40 m/s",
+        "d": "50 m/s"
+    },
+    
+    "correctAnswer": "d",
+    "difficulty": "beginner"
+  },
+  {
+    "question": " EMG stands for",
+    "answers": {
+        "a": "Elecromusclegraph",
+        "b": "Electromayogram",
+        "c": "Electromyograin",
+        "d": "None of above"
+    },
+    
+    "correctAnswer": "b",
+    "difficulty": "beginner"
+  }
   ]
 }
